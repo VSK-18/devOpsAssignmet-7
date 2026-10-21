@@ -1,6 +1,6 @@
 """Simple application used for the Jenkins + GitHub CI pipeline demonstration.
 
-Assignment 7 - Continuous Integration Using Jenkins and GitHub.
+Assignment 7 Devops  - Continuous Integration Using Jenkins and GitHub.
 """
 
 
